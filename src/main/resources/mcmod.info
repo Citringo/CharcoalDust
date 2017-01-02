@@ -1,0 +1,16 @@
+[
+{
+  "modid": "charcoaldust",
+  "name": "Charcoal Dust",
+  "description": "Add a Charcoal Dust.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Citrine"],
+  "credits": "(C) Citringo",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
